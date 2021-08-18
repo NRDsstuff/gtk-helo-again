@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2021 NRD nrdfoss@gmail.com -->
+<component type="desktop">
+    <id>com.github.nrdfoss.gtk-helo-again</id>
+    <metadata_license>CC0-3.0</metadata_license>
+    <name>amogis</name>
+    <summary>dumb</summary>
+    <description>
+        <p>i learned to make vala apps but i shouldn't code at all</p>
+    </description>
+    <custom>
+        <value key="x-appcenter-color-primary">#603461</value>
+        <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+        <value key="x-appcenter-suggested-price">69420</value>
+        <value key="x-appcenter-stripe">pk_live_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</value>
+    </custom>
+</component>
